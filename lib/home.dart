@@ -5,8 +5,6 @@ import 'package:cashflow_app/expense.dart';
 import 'package:cashflow_app/debt.dart';
 import 'package:cashflow_app/saving.dart';
 import 'package:cashflow_app/sign_up.dart';
-import 'package:cashflow_app/login.dart';
-import 'package:cashflow_app/summary.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key});
